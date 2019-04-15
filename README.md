@@ -11,6 +11,6 @@ If a player has hidden his statistics, he will not be checked during the process
 
 ------
 # Requirement
-python3
-python requests module
-brain
+- python3
+- python requests module
+- brain
