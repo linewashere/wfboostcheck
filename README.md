@@ -3,7 +3,7 @@ A simple python script to check the statistics of a player/players in a clan in 
 
 ------
 # Usage
-python3 wfboostcheck.py
+python3 checkboost.py
 
 ------
 # Known Issue
